@@ -14,7 +14,7 @@ def get_availability(url):
         return "Parking is available"
 
 
-st.title("Sokolov gang parking info")
+st.title("Parking info")
 
 "Assuta: " + get_availability("http://www.ahuzot.co.il/Parking/ParkingDetails/?ID=122")
 "Basel: " + get_availability("http://www.ahuzot.co.il/Parking/ParkingDetails/?ID=3")
