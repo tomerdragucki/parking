@@ -19,6 +19,7 @@ st.title("Sokolov gang parking info")
 "Assuta: " + get_availability("http://www.ahuzot.co.il/Parking/ParkingDetails/?ID=122")
 "Basel: " + get_availability("http://www.ahuzot.co.il/Parking/ParkingDetails/?ID=3")
 "Arlozorov 17: " + get_availability("http://www.ahuzot.co.il/Parking/ParkingDetails/?ID=123")
+"HaBima: " + get_availability("http://www.ahuzot.co.il/Parking/ParkingDetails/?ID=94")
 
 # print("Assuta: " + get_availability("http://www.ahuzot.co.il/Parking/ParkingDetails/?ID=122"))
 # print("Basel: " + get_availability("http://www.ahuzot.co.il/Parking/ParkingDetails/?ID=3"))
